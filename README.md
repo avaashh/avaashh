@@ -1,4 +1,4 @@
-###Welcome to my GitHub profile! 👋
+### Welcome to my GitHub profile! 👋
  
 Github tells me this is a ✨ _special_ ✨ repo where I can talk about myself. Although I am not very good at this, here's my attempt.
 
@@ -7,7 +7,7 @@ I am also fond of Mathematics. I'm absolutely love learning, and I'm always look
 In addition to software development, I am interested in public policy, volunteering and solving puzzles.
 
 
-#Following are some of my skills.
+# Following are some of my skills.
   • Proficiency in Java, Python, C, and Javascript (React) 💻,
   • Automating tasks I only need to do once 👷‍♂️,
   • Functioning on 5 hours of sleep 😴,
@@ -15,7 +15,7 @@ In addition to software development, I am interested in public policy, volunteer
   • And of course, tackling problems and coming up with creative solutions 👨‍🎨.
 
 
-#Lets connect!
+# Lets connect!
   • 💌: [contact@avaash.com.np](mailto:contact@avaash.com.np?subject=Hello%20from%20Github)
   • [Discord](https://discord.com/users/avaashh#8657/)
   • [LinkedIn](https://www.linkedin.com/in/avaash/)
